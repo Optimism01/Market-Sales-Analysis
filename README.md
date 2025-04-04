@@ -1,29 +1,30 @@
 # Market-Sales-Analysis
-##Project Overview
+## Project Overview
 The primary objective of this project is to analyse the performance of the company sales over the years. I aim to identify the profit and loss of the company and also aim to identify the performance of sales in each month. I also aim to identify the performance of each category of products. This analyse was carried out from the beginning till end using powerBi.
 
-##Data Source
-The dataset I analysed was gotten from kaggle.com . It contained a detailed raw data about the performance of a company sales over some period of time . 
-<a href= “this”>Download her </a>
+## Data Source
+The dataset I analysed was gotten from <a href= “kaggle.com”> KAGGLE </a> . It contained a record of a company sales over some period of time. 
+<a href= “this”>Download dataset </a>
 
-##Tools
+## Tools
 PowerBi : Data Processing
 PowerBi : Visualization
 
-##Question
+## Question
 •	What is the total sales ?
-•	How many orders was placed ?
-•	Whichh market has the highest sales?
+•	How many orders were placed ?
+•	Which market has the highest sales?
 •	How much profit was made ?
 •	What is the performance of sales per month?
 •	How much was lost?
 •	What product category is having the highest sales?
 •	What product sub-category is having the highest sales?
 
-##Data Visualization
+## Data Visualization
 Data visualization plays a crucial role in transforming the already cleaned data into easily understandable visual presentation.
 
-##Results
+
+## Results
 My analysis shows that over the 4 years of sales:
 1.  The total sales the company made is 12.64 million of naira.
 2.	25,730 orders were placed over the 4 years.

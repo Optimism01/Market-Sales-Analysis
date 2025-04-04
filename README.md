@@ -22,7 +22,8 @@ PowerBi : Visualization
 
 ## Data Visualization
 Data visualization plays a crucial role in transforming the already cleaned data into easily understandable visual presentation.
-https://github.com/Optimism01/Market-Sales-Analysis/blob/main/Screenshot%202025-04-04%20045052.png
+<img width="714" alt="Screenshot 2025-04-04 045052" src="https://github.com/user-attachments/assets/cef135f8-3224-4531-bcec-20e73cd6d234" />
+
 
 
 ## Results

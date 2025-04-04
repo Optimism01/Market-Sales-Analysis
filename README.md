@@ -3,7 +3,7 @@
 The primary objective of this project is to analyse the performance of the company sales over the years. I aim to identify the profit and loss of the company and also aim to identify the performance of sales in each month. I also aim to identify the performance of each category of products. This analyse was carried out from the beginning till end using powerBi.
 
 ## Data Source
-The dataset I analysed was gotten from <a href= “kaggle.com”> KAGGLE </a> . It contained a record of a company sales over some period of time. 
+The dataset I analysed was gotten from <a href= "https://www.kaggle.com/"> KAGGLE </a> . It contained a record of a company sales over some period of time. 
 <a href="https://github.com/Optimism01/Market-Sales-Analysis/blob/main/global_superstore_2016%20(1).xlsx">Download dataset </a>
 
 ## Tools
